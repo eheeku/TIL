@@ -9,5 +9,4 @@ TIL :: Today I Learned
 
 ## 분류
 ### go
-* [180814/basic go]
-()
+* [180814/basic go] (https://github.com/eheeku/TIL/blob/master/go/180814/180814_basicgo.md)
