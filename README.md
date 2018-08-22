@@ -14,4 +14,4 @@ TIL :: Today I Learned
 * [180814/basic go](https://github.com/eheeku/TIL/blob/master/go/180814/180814_basicgo.md)
 ### Etc
 * [180724/about markdown](./etc/180724_markdown.md)
-* [180724/about jekyll](./etc/180724_markdown.md)
+* [180822/about jekyll](./etc/180822_jekyll.md)
