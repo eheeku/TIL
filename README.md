@@ -9,7 +9,7 @@ TIL :: Today I Learned
 
 ## 분류
 ### BLOCK CHAIN
-* [180826/problem eth](etc/180826_problemETH.md)
+* [180826/problem eth](blockchain/180826_problemETH.md)
 ### network
 * [180818/hello world socket programming](network/180818/180818_helloworld.md)
 ### go
