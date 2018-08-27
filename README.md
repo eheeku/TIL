@@ -11,7 +11,7 @@ TIL :: Today I Learned
 ### BLOCK CHAIN
 * [180826/problem eth](blockchain/180826_problemETH.md)
 ### Machine Learning
-* [180827/NLP](machineLearming/180827_NLP.md)
+* [180827/NLP](machineLearning/180827_NLP.md)
 ### network
 * [180818/hello world socket programming](network/180818/180818_helloworld.md)
 ### go
