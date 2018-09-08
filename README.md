@@ -13,6 +13,7 @@ TIL :: Today I Learned
 * [180826/problem eth](blockchain/180826_problemETH.md)
 ### Machine Learning
 * [180827/NLP](machineLearning/180827_NLP.md)
+* [180908/머신러닝 과정 및 응용분야] (machineLearning/180908_mlflow.md)
 ### network
 * [180818/hello world socket programming](network/180818/180818_helloworld.md)
 ### R
