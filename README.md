@@ -17,6 +17,9 @@ TIL :: Today I Learned
 ### network
 * [180818/hello world socket programming](network/180818/180818_helloworld.md)
 ### R
+* class
+  1. [180911](R/class/180911.R)
+  
 * [180902/basic_R.md](R/180902/180902_basicR.md)
 ### go
 * [180814/basic go](https://github.com/eheeku/TIL/blob/master/go/180814/180814_basicgo.md)
