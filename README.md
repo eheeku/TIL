@@ -25,3 +25,4 @@ TIL :: Today I Learned
 ### Etc
 * [180724/about markdown](./etc/180724_markdown.md)
 * [180822/about jekyll](./etc/180822_jekyll.md)
+* [180912/about javascript](./etc/180912_javascript.md)
