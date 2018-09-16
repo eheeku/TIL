@@ -11,6 +11,7 @@ TIL :: Today I Learned
 ### BLOCK CHAIN
 * [180720/snake blockchain](blockchain/180720/180720_snackblockchain.md)
 * [180826/problem eth](blockchain/180826_problemETH.md)
+* [180916/ERC20](blockchain/180916_ERC20.md)
 ### Machine Learning
 * [180827/NLP](machineLearning/180827_NLP.md)
 * [180908/머신러닝 과정 및 응용분야](machineLearning/180908_mlflow.md)
