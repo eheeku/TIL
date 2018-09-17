@@ -27,3 +27,4 @@ TIL :: Today I Learned
 * [180724/about markdown](./etc/180724_markdown.md)
 * [180822/about jekyll](./etc/180822_jekyll.md)
 * [180912/about javascript](./etc/180912_javascript.md)
+* [180917/jquery 1 ](./etc/180917_jquery(1).md)
