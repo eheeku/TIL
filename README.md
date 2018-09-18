@@ -33,7 +33,7 @@ TIL :: Today I Learned
 * [180912/about javascript](./web/180912_javascript.md)
 * [180917/jquery1](./web/180917_jquery(1).md)
 * [180917/jquery2](./web/190917_jquery(2).md)
-* [180918/php 1] (./web/180918_php.md)
+* [180918/php1](./web/180918_php.md)
 
 ### Etc
 * [180724/about markdown](./etc/180724_markdown.md)
