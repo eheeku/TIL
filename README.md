@@ -23,7 +23,8 @@ TIL :: Today I Learned
 ### R
 * [180902/basic_R.md](R/180902/180902_basicR.md)
 * class
-  1. [180911](R/class/180911.R)
+  * [180911](./R/class/180911.R)
+  * [180918](./R/class/180918.R)
 
 ### go
 * [180814/basic go](https://github.com/eheeku/TIL/blob/master/go/180814/180814_basicgo.md)
