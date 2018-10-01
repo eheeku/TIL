@@ -32,9 +32,11 @@ TIL :: Today I Learned
 ### web
 * [180822/about jekyll](./web/180822_jekyll.md)
 * [180912/about javascript](./web/180912_javascript.md)
-* [180917/jquery1](./web/180917_jquery(1).md)
-* [180917/jquery2](./web/190917_jquery(2).md)
 * [180918/php1](./web/180918_php.md)
+* jquery
+ * [180917/jquery1](./web/180917_jquery(1).md)
+ * [180917/jquery2](./web/180917_jquery(2).md)
+ * [181001/wrapper](./web/181001_jquery(3).md)
 
 ### Etc
 * [180724/about markdown](./etc/180724_markdown.md)
