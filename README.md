@@ -37,6 +37,7 @@ TIL :: Today I Learned
   * [180917/jquery1](./web/180917_jquery(1).md)
   * [180917/jquery2](./web/180917_jquery(2).md)
   * [181001/jquery3 wrapper](./web/181001_jquery(3).md)
+  * [181001/jquery4 method] (./web/181001_jquery(4).md)
 
 ### Etc
 * [180724/about markdown](./etc/180724_markdown.md)
