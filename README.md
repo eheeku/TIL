@@ -25,7 +25,8 @@ TIL :: Today I Learned
 * class
   * [180911](./R/class/180911.R)
   * [180918](./R/class/180918.R)
-
+* home work
+  * [R home work 1 50명의 국어,수학,영어 점수 & 주사위 3개 던지기](./R/hw/%23180918_RHomeWork1.pdf)
 ### go
 * [180814/basic go](https://github.com/eheeku/TIL/blob/master/go/180814/180814_basicgo.md)
 
