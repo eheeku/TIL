@@ -28,7 +28,7 @@ TIL :: Today I Learned
 * home work
   * [R home work 1 50명의 국어,수학,영어 점수 & 주사위 3개 던지기](./R/hw/%23180918_RHomeWork1.pdf)
 ### go
-* [180814/basic go](https://github.com/eheeku/TIL/blob/master/go/180814/180814_basicgo.md)
+* [180814/basic go](./go/180814/180814_basicgo.md)
 
 ### web
 * [180822/about jekyll](./web/180822_jekyll.md)
