@@ -29,6 +29,7 @@ TIL :: Today I Learned
   * [181016-2](./R/class/181016-2.R)
 * home work
   * [R home work 1 50명의 국어,수학,영어 점수 & 주사위 3개 던지기](./R/hw/%23180918_RHomeWork1.pdf)
+  * [function test](./R/hw/#181021_RHomeWork2.md)
 ### go
 * [180814/basic go](./go/180814/180814_basicgo.md)
 
