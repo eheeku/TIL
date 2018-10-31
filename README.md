@@ -27,7 +27,7 @@ TIL :: Today I Learned
   * [180918](./R/class/180918.R)
   * [181016](./R/class/181016.R)
   * [181016-2](./R/class/181016-2.R)
-  * [181031 p.s 실습파일은 따로 업로드되어 ] (./R/class/181031.pdf)
+  * [181031 p.s실습파일은 따로 업로드](./R/class/181031.pdf)
 * home work
   * [R home work 1 50명의 국어,수학,영어 점수 & 주사위 3개 던지기](./R/hw/%23180918_RHomeWork1.pdf)
   * [function test](./R/hw/#181021_RHomeWork2.md)
