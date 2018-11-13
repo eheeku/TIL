@@ -28,11 +28,11 @@ TIL :: Today I Learned
   * [181016](./R/class/181016.R)
   * [181016-2](./R/class/181016-2.R)
   * [181031 p.s실습파일은 따로 업로드](./R/class/181031.pdf)
-  * [181113 에니메이션](./R/class/181113.R)
+  * [181113 애니메이션](./R/class/181113.R)
 * home work
   * [R home work 1 50명의 국어,수학,영어 점수 & 주사위 3개 던지기](./R/hw/%23180918_RHomeWork1.pdf)
   * [function test](./R/hw/#181021_RHomeWork2.md)
-  * [6장 실습문제]()
+  * [6장 실습문제](./R/hw/181113_RHomeWork3.R)
 ### go
 * [180814/basic go](./go/180814/180814_basicgo.md)
 
