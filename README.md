@@ -20,6 +20,7 @@ TIL :: Today I Learned
 ### network
 * [180818/hello world socket programming](network/180818/180818_helloworld.md)
 * [181107/thread 기초](./network/181107/181107_thread.md)
+* [181122/스레드 생성과 종료, 인자 전달] (./network/181122_thread.c)
 ### R
 * [180902/basic_R.md](R/180902/180902_basicR.md)
 * class
