@@ -53,3 +53,14 @@ wordcloud(word,feq,colors=pal2)
 word = data$행정구역.시군구.별
 feq = data$총전출..명.
 wordcloud(word,feq,colors=pal2)
+
+#
+data = read.csv(file.choose(),header=T)
+# 전입자
+word = data$행정구역.시군구.별
+feq = data$총전입..명.
+wordcloud(word,feq,colors=pal2)
+#전출자
+word = data$행정구역.시군구.별
+feq = data$총전출..명.
+wordcloud(word,feq,colors=pal2)
