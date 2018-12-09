@@ -24,9 +24,9 @@ TIL :: Today I Learned
 
 ### unity
 * [181127/unity 기초](./unity/181127/%5B181127%5Dunity.md)
-
+* [181209/unity 실습](./unity/181127/%5B181127%5Dunity.md)
 ### R
-* [180902/basic_R.md](R/180902/180902_basicR.md)
+* [180902/basic_R.md](R/181209/unity_prac.md)
 * class
   * [180911](./R/class/180911.R)
   * [180918](./R/class/180918.R)
