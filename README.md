@@ -14,6 +14,8 @@ TIL :: Today I Learned
 * [180720/snake blockchain](blockchain/180720/180720_snackblockchain.md)
 * [180826/problem eth](blockchain/180826_problemETH.md)
 * [180916/ERC20](blockchain/180916_ERC20.md)
+* [190107/원본과복사본](blockchain/190107_복사본.md)
+* [190107/원본과복사본](blockchain/190107_돈의미래.md)
 
 ### Machine Learning
 * [180827/NLP](machineLearning/180827_NLP.md)
