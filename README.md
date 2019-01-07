@@ -16,6 +16,7 @@ TIL :: Today I Learned
 * [180916/ERC20](blockchain/180916_ERC20.md)
 * [190107/원본과복사본](blockchain/190107_복사본.md)
 * [190107/돈의미래](blockchain/190107_돈의미래.md)
+* [190108/증명](blockchain/190108_증명.md)
 
 ### Machine Learning
 * [180827/NLP](machineLearning/180827_NLP.md)
@@ -36,9 +37,9 @@ TIL :: Today I Learned
   * [180918](./R/class/180918.R)
   * [181016](./R/class/181016.R)
   * [181016-2](./R/class/181016-2.R)
-  * [181031 p.s실습파일은 따로 업로드](./R/class/181031.pdf)
+  * [181031 p.s실습파일](./R/class/181031.pdf)
   * [181113 애니메이션](./R/class/181113.R)
-  * [181207 애니메이션 숫자출력:](./R/181207.md)
+  * [181207 애니메이션 숫자출력](./R/181207.md)
 * home work
   * [R home work 1 50명의 국어,수학,영어 점수 & 주사위 3개 던지기](./R/hw/%23180918_RHomeWork1.pdf)
   * [function test](./R/hw/#181021_RHomeWork2.md)
