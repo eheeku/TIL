@@ -17,6 +17,7 @@ TIL :: Today I Learned
 * [190107/원본과복사본](blockchain/190107_복사본.md)
 * [190107/돈의미래](blockchain/190107_돈의미래.md)
 * [190108/증명](blockchain/190108_증명.md)
+* [190109/ethereum 2.0](blockchain/190108_스마트컨트랙트교육.md)
 
 ### Machine Learning
 * [180827/NLP](machineLearning/180827_NLP.md)
