@@ -10,8 +10,10 @@ TIL :: Today I Learned
 ## 분류
 ### ALGO
 * [comming soon]
+
 ### LIB
 * python
+  * [collection](lib/python/python_collection.md)
 
 ### BLOCK CHAIN
 * [180720/snake blockchain](blockchain/180720/180720_snackblockchain.md)
