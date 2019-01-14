@@ -10,7 +10,7 @@ TIL :: Today I Learned
 ## 분류
 ### ALGO
 * 이론
-  * [Merkle Tree](algo/merkle_tree.md)
+  * [Merkle Tree](algo/merkleroot.md)
 * 실습
   * [이진탐색](algo/binary_search.py)
 
