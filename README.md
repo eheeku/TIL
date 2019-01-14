@@ -9,7 +9,8 @@ TIL :: Today I Learned
 
 ## 분류
 ### ALGO
-* [comming soon]
+* [Merkle Tree](algo/merkle_tree.md)
+* [이진탐색](algo/binary_search.py)
 
 ### LIB
 * python
