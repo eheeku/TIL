@@ -8,16 +8,6 @@ TIL :: Today I Learned
 * 분류는 폴더명, 실습파일 등을 포함하여 둡니다.
 
 ## 분류
-### ALGO
-* 이론
-  * [Merkle Tree](algo/merkleroot.md)
-* 실습
-  * [이진탐색](algo/binary_search.py)
-
-### LIB
-* python
-  * [collection](lib/python/python_collection.md)
-
 ### BLOCK CHAIN
 * EOS
   * [eosio 기초](./blockchain/190209_EOSIO.md)
@@ -28,6 +18,16 @@ TIL :: Today I Learned
 * [190107/돈의미래](blockchain/190107_돈의미래.md)
 * [190108/증명](blockchain/190108_증명.md)
 * [190109/ethereum 2.0](blockchain/190108_스마트컨트랙트교육.md)
+
+### ALGO
+* 이론
+  * [Merkle Tree](algo/merkleroot.md)
+* 실습
+  * [이진탐색](algo/binary_search.py)
+
+### LIB
+* python
+  * [collection](lib/python/python_collection.md)
 
 ### Machine Learning
 * [180827/NLP](machineLearning/180827_NLP.md)
