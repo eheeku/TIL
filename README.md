@@ -11,6 +11,7 @@ TIL :: Today I Learned
 ### BLOCK CHAIN
 * EOS
   * [eosio 기초](./blockchain/190209_EOSIO.md)
+  * [삽질](./blockchain/spadework_1.md)
 * [180720/snake blockchain](blockchain/180720/180720_snackblockchain.md)
 * [180826/problem eth](blockchain/180826_problemETH.md)
 * [180916/ERC20](blockchain/180916_ERC20.md)
