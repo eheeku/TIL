@@ -8,10 +8,8 @@ TIL :: Today I Learned
 * 분류는 폴더명, 실습파일 등을 포함하여 둡니다.
 
 ## 분류
+
 ### BLOCK CHAIN
-* EOS
-  * [eosio 기초](./blockchain/190209_EOSIO.md)
-  * [삽질](./blockchain/spadework_1.md)
 * [180720/snake blockchain](blockchain/180720/180720_snackblockchain.md)
 * [180826/problem eth](blockchain/180826_problemETH.md)
 * [180916/ERC20](blockchain/180916_ERC20.md)
@@ -19,7 +17,11 @@ TIL :: Today I Learned
 * [190107/돈의미래](blockchain/190107_돈의미래.md)
 * [190108/증명](blockchain/190108_증명.md)
 * [190109/ethereum 2.0](blockchain/190108_스마트컨트랙트교육.md)
-
+#### EOS
+  * [190209/eosio 기초](./blockchain/190209_EOSIO.md)
+  * [190305/삽질](./blockchain/spadework_1.md)
+  * [190308/eosio.token 정밀 분석 part1(토큰 중심)](./blockchain/190308_eosio.token/abouteosio.token.md)
+  * [190308/eosio.token 정밀 분석 part2 (헤더 및 궁금사항)](./blockchain/190308_eosio.token/abouteosio.token2.md)
 ### ALGO
 * 이론
   * [Merkle Tree](algo/merkleroot.md)
