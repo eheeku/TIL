@@ -254,7 +254,7 @@ struct [[eosio::table]] account {
 typedef eosio::multi_index< "accounts"_n, account > accounts;
 ```
 위 내용을 객체화 하면 다음과 같다.
-![account](./img/accounts.png)
+![account](./accounts.png)
 
 ### currency_stats
 다음은 currency_stats구조체에 대한 정의이다.
@@ -273,4 +273,4 @@ typedef eosio::multi_index< "accounts"_n, account > accounts;
          typedef eosio::multi_index< "stat"_n, currency_stats > stats;
 ```
 위 내용을 객체화 한다면 다음과 같다.
-![currency_stats](./img/currency_stats.png)
+![currency_stats](./currency_stats.png)
