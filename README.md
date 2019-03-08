@@ -9,6 +9,7 @@ TIL :: Today I Learned
 
 ## 분류
 ### BLOCK CHAIN
+* [intro]((blockchain/intro.md)
 * [180720/snake blockchain](blockchain/180720/180720_snackblockchain.md)
 * [180826/problem eth](blockchain/180826_problemETH.md)
 * [180916/ERC20](blockchain/180916_ERC20.md)
