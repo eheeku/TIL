@@ -12,10 +12,10 @@ TIL :: Today I Learned
 #### EOS
   * [190209/eosio 기초](./blockchain/190209_EOSIO.md)
   * [190305/삽질](./blockchain/spadework_1.md)
-  * [190313/eos.token.header](./blockchain/180314_eos.token.header.md)
-  * [190313/eos.token](./blockchain/180314_eos.token.md)
-  * [190313/eos.token.else](./blockchain/180314_eos.token.else.md)
-  * [190313/eos.token.table](./blockchain/180314_eos.token.table.md)
+  * [190313/eos.token.header](./blockchain/190314_eos.token.header.md)
+  * [190313/eos.token](./blockchain/190314_eos.token.md)
+  * [190313/eos.token.else](./blockchain/190314_eos.token.else.md)
+  * [190313/eos.token.table](./blockchain/190314_eos.token.table.md)
 ### else
 * [intro](blockchain/intro.md)
 * [180720/snake blockchain](blockchain/180720/180720_snackblockchain.md)
