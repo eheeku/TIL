@@ -9,6 +9,14 @@ TIL :: Today I Learned
 
 ## 분류
 ### BLOCK CHAIN
+#### EOS
+  * [190209/eosio 기초](./blockchain/190209_EOSIO.md)
+  * [190305/삽질](./blockchain/spadework_1.md)
+  * [190313/eos.token.header](./blockchain/180314_eos.token.header.md)
+  * [190313/eos.token](./blockchain/180314_eos.token.md)
+  * [190313/eos.token.else](./blockchain/180314_eos.token.else.md)
+  * [190313/eos.token.table](./blockchain/180314_eos.token.table.md)
+### else
 * [intro](blockchain/intro.md)
 * [180720/snake blockchain](blockchain/180720/180720_snackblockchain.md)
 * [180826/problem eth](blockchain/180826_problemETH.md)
@@ -17,13 +25,7 @@ TIL :: Today I Learned
 * [190107/돈의미래](blockchain/190107_돈의미래.md)
 * [190108/증명](blockchain/190108_증명.md)
 * [190109/ethereum 2.0](blockchain/190108_스마트컨트랙트교육.md)
-#### EOS
-  * [190209/eosio 기초](./blockchain/190209_EOSIO.md)
-  * [190305/삽질](./blockchain/spadework_1.md)
-  * [190313/eos.token.header](./blockchain/[180314]eos.token.header.md)
-  * [190313/eos.token](./blockchain/[180314]eos.token.md)
-  * [190313/eos.token.else](./blockchain/[180314]eos.token.else.md)
-  * [190313/eos.token.table](./blockchain/[180314]eos.token.table.md)
+
 ### ALGO
 * 이론
   * [Merkle Tree](algo/merkleroot.md)
