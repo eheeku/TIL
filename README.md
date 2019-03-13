@@ -20,8 +20,10 @@ TIL :: Today I Learned
 #### EOS
   * [190209/eosio 기초](./blockchain/190209_EOSIO.md)
   * [190305/삽질](./blockchain/spadework_1.md)
-  * [190308/eosio.token 정밀 분석 part1(토큰 중심)](./blockchain/190308_eosio.token/abouteosio.token.md)
-  * [190308/eosio.token 정밀 분석 part2 (헤더 및 궁금사항)](./blockchain/190308_eosio.token/abouteosio.token2.md)
+  * [190313/eos.token.header](./blockchain/[180314]eos.token.header.md)
+  * [190313/eos.token](./blockchain/[180314]eos.token.md)
+  * [190313/eos.token.else](./blockchain/[180314]eos.token.else.md)
+  * [190313/eos.token.table](./blockchain/[180314]eos.token.table.md)
 ### ALGO
 * 이론
   * [Merkle Tree](algo/merkleroot.md)
